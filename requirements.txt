@@ -1,0 +1,11 @@
+answercheck
+ipython
+ipywidgets
+jupyter
+matplotlib
+networkx
+numpy
+pandas
+scikit-learn
+seaborn
+sympy
